@@ -12,7 +12,7 @@ gem 'rides'
 
 And then execute:
 
-		$ bundle
+    $ bundle
 
 Or install it yourself as:
 
