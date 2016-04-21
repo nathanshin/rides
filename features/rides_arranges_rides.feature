@@ -5,4 +5,4 @@ Feature: Drivers are assigned riders
 
 	Scenario: Arranging rides
 		When I run `rides arrange`
-		Then the output should contain: "Rides arranged!"
+		Then the output should contain "Rides arranged!"

@@ -1,5 +1,6 @@
 require "rides/version"
+require "thor"
 
 module Rides
-  # Your code goes here...
 end
+

@@ -1,0 +1,14 @@
+1	Steve Jobs	Koenig Ln, Austin, TX 78705
+2	Nathan Shin	Pearl St, Austin, TX 78705
+3	David Tae Kim	Rio Grande St, Austin, TX 78705	\N	2
+4	David Alaska Kim	Pearl St, Austin, TX 78705	\N	1
+5	Justin Ha	Pearl St, Austin, TX 78705	\N	4
+6	Sojung Uhm	Guadalupe St, Austin, TX 78705	\N	3
+7	Rachel Lim	Koenig Ln, Austin, TX 78705	\N	3
+8	Sharon Song	San Antonio, Austin, TX 78705	\N	4
+9	Sharon Kim	Pearl St, Austin, TX 78705	\N	4
+10	Sumin Cho	Pearl St, Austin, TX 78705	\N	2
+11	Junie Lee	Rio Grande St, Austin, TX 78705	\N	3
+12	Chris Choi	San Gabriel St, Austin, TX 78705	\N	1
+13	Joseph Hur	Leon St, Austin, TX 78705	\N	2
+14	Marcelo Moura	San Antonio St, Austin, TX 78705	\N	4
