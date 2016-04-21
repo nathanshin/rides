@@ -22,31 +22,24 @@ Or install it yourself as:
 
 In order to add a new rider or driver, execute: 
 
-```ruby
-rides add "Nathan Shin"
-```
+		$ rides add "Nathan Shin"
 
 It will prompt you through a series of questions and will add the person to the database.
 
 If you would like to remove a rider or driver, simply use: 
 
-```ruby
-rides remove "Nathan Shin"
-```
+		$ rides remove "Nathan Shin"
 
 No need to deal with SQL with this application.
 
 Want a list of everyone on the drivers of riders lists? Execute: 
 
-```ruby
-rides list
-```
+		$ rides list
 
 Finally, and arguably the most important of all, arrange rides with a couple keystrokes and a click of a button:
 
-```ruby
-rides arrange
-```
+		$ rides arrange
+
 
 Hope this gem will make your life a little bit easier!
 
