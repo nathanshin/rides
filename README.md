@@ -1,8 +1,6 @@
 # Rides
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rides`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to rides! This gem hopes to make it easier for anyone coordinating rides to set rides up. This gem will take an input of drivers and riders, along with their location, and assign riders to drivers based on their distance. This gem was mainly designed to help out my personal organization because it was a huge headache, but perhaps it will solve the issue for others as well! Enjoy.
 
 ## Installation
 
@@ -22,7 +20,35 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In order to add a new rider or driver, execute: 
+
+```ruby
+rides add "Nathan Shin"
+```
+
+It will prompt you through a series of questions and will add the person to the database.
+
+If you would like to remove a rider or driver, simply use: 
+
+```ruby
+rides remove "Nathan Shin"
+```
+
+No need to deal with SQL with this application.
+
+Want a list of everyone on the drivers of riders lists? Execute: 
+
+```ruby
+rides list
+```
+
+Finally, and arguably the most important of all, arrange rides with a couple keystrokes and a click of a button:
+
+```ruby
+rides arrange
+```
+
+Hope this gem will make your life a little bit easier!
 
 ## Development
 
@@ -32,5 +58,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rides.
+Bug reports and pull requests are welcome on GitHub at https://github.com/nathanshin/rides.
 
