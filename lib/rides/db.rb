@@ -5,7 +5,7 @@ module Rides
 		def client
 			Mysql2::Client.new(:host => "localhost", 
 												 :username => "nathanshin", 
-												 :password => "Cookies1!", 
+												 :password => "password", 
 												 :database => "rides_2016")
 		end
 	end
